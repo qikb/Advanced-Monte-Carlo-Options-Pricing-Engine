@@ -19,7 +19,7 @@ a fair option price alongside a full Greeks table for risk analysis.
 ---
 
 ## Sample Output
-
+```
 Enter ticker symbol: AAPL
 
 =============================================
@@ -42,3 +42,20 @@ Enter ticker symbol: AAPL
   Theta           -0.0364    -0.0105
   Vega             0.1358     0.1358
 =============================================
+```
+
+---
+
+## Installation
+```bash
+pip install numpy yfinance
+python3 monte_carlo_options.py
+```
+
+---
+
+## Project Series
+- [Advanced Algorithmic Equity Screener](https://github.com/qikb/Advanced-Algorithmic-Stock-Screener)
+- [Advanced Portfolio Risk Analyzer](https://github.com/qikb/Advanced-Portfolio-Risk-Analyzer)
+- [Advanced DCF Valuation Model](https://github.com/qikb/Advanced-DCF-Valuation)
+- **Advanced Monte Carlo Options Pricing Engine** ← this project
