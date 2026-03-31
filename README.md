@@ -44,15 +44,6 @@ Enter ticker symbol: AAPL
 =============================================
 ```
 
----
-
-## Installation
-```bash
-pip install numpy yfinance
-python3 monte_carlo_options.py
-```
-
----
 
 ## Project Series
 - [Advanced Algorithmic Equity Screener](https://github.com/qikb/Advanced-Algorithmic-Stock-Screener)
