@@ -44,9 +44,3 @@ Enter ticker symbol: AAPL
 =============================================
 ```
 
-
-## Project Series
-- [Advanced Algorithmic Equity Screener](https://github.com/qikb/Advanced-Algorithmic-Stock-Screener)
-- [Advanced Portfolio Risk Analyzer](https://github.com/qikb/Advanced-Portfolio-Risk-Analyzer)
-- [Advanced DCF Valuation Model](https://github.com/qikb/Advanced-DCF-Valuation)
-- **Advanced Monte Carlo Options Pricing Engine** ← this project
