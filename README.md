@@ -1,4 +1,4 @@
-# Advanced Monte Carlo Options Pricing Engine
+# Monte Carlo Options Pricing Engine
 **Python | NumPy | yfinance**
 
 ---
