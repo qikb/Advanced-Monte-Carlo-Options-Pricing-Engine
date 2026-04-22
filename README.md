@@ -5,7 +5,7 @@
 
 ## What It Does
 Prices European-style call and put options for any stock using Monte Carlo simulation.
-Enter a ticker, strike price, and expiration — the model pulls live market data and outputs
+Enter a ticker, strike price, and expiration. The model pulls live market data and outputs
 a fair option price alongside a full Greeks table for risk analysis.
 
 ---
